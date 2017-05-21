@@ -1,6 +1,8 @@
 # Coding Interview University
 Story: https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13
 
+Read the comments: https://www.reddit.com/r/programming/comments/565i1n/google_interview_university_multimonth_study_plan/d8gr17k/
+
 
 ## What is it?
 
